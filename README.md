@@ -1,3 +1,1 @@
-# beakjoon
-Baekjoon Online Judge 알고리즘
-https://www.acmicpc.net
+Baekjoon Online Judge(https://www.acmicpc.net) 알고리즘
